@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Rooting Xiaomi WiFi Routers"
+author: Marin Duroyon, Julien R. (SoEasY)
 categories: [Vulnerability Research, Xiaomi, Routers, CVE]
 ---
 
