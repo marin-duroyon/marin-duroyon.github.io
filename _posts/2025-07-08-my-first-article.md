@@ -13,5 +13,3 @@ You can use different Markdown elements to structure your articles, such as:
 * Lists, like this one
 * [Links to other websites](https://www.google.com)
 * And even images!
-
-![This is the alt text for my image.](/assets/test.jpg)
