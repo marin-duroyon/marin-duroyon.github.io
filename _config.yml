@@ -1,5 +1,11 @@
 theme: minima
-title: My Personal Blog
+title: Security Research by Marin Duroyon
 author: Marin Duroyon
 email: marinduroyon@gmail.com
-description: A space for my thoughts and articles.
+description: >-
+  A blog detailing my security vulnerabilities and research findings.
+baseurl: ""
+email: marinduroyon@gmail.com
+
+url: "https://marin-duroyon.github.io"
+google_analytics: G-PD5D9TCDPK
