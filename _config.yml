@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
+theme: minima
 title: My Personal Blog
+author: Marin Duroyon
+email: marinduroyon@gmail.com
 description: A space for my thoughts and articles.
