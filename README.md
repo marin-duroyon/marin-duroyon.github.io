@@ -4,7 +4,7 @@ This site serves as a public archive of security vulnerabilities I have discover
 
 ### Public CVEs
 
-* [CVE-2025-49691](https://www.cve.org/CVERecord?id=CVE-2025-49691)
+* [CVE-2025-49691](https://msrc.microsoft.com/update-guide/en-US/vulnerability/CVE-2025-49691)
 * [CVE-2023-26320](https://nvd.nist.gov/vuln/detail/CVE-2023-26320)
 * [CVE-2023-26319](https://nvd.nist.gov/vuln/detail/CVE-2023-26319)
 * [CVE-2023-26318](https://nvd.nist.gov/vuln/detail/CVE-2023-26318)
