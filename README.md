@@ -1,6 +1,6 @@
 I am an experienced Security Researcher specialized in Reverse Engineering and Vulnerability Research.
 
-This site serves as a public archive of security vulnerabilities I have discovered and reported.
+This site serves as a public archive of vulnerabilities I have discovered and reported.
 
 ### Public CVEs
 
